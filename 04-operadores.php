@@ -29,6 +29,6 @@ echo "<br>";
 
 // Multiplicar por cierta cantidad de veces
 
-echo 3 ** 3;  // Multiplica el mismo numero por la cantidad de veces que indiquemos
+echo 3 ** 4;  // Multiplica el mismo numero por la cantidad de veces que indiquemos
 
 include 'includes/footer.php';
